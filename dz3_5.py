@@ -3,7 +3,6 @@ s='We are not what we should be!? We are not what, we need to be. But at least w
 s=s.split()
 print('Lengh:', len(s))
 d=0
-item=s[d]
 g=[]
 for item in range(len(s)):
     f=s[d].strip(':;!,.?()')
